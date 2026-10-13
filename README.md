@@ -13,4 +13,4 @@ This experience helped me explore cybersecurity challenges and strengthen my und
 
 ## 🏆 Certificate
 
-![Tuwaiq Cybersecurity CTF Certificate](CTF.pdf)
+![Tuwaiq Cybersecurity CTF Certificate](CTF.png)
